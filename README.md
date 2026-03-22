@@ -49,7 +49,7 @@ This project is created to demonstrate how a chatbot works using basic web techn
 ## 🚀 Live Demo
 
 👉 Click here to use the app:  
-[https://fusion-ai-pggj.onrender.com](http://127.0.0.1:5000)
+http://127.0.0.1:5000
 
 
 ## 👨‍💻 Author
