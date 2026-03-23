@@ -46,11 +46,6 @@ This project is created to demonstrate how a chatbot works using basic web techn
 * More advanced UI design
 * Better response intelligence
 
-## 🚀 Live Demo
-
-👉 Click here to use the app:  
-http://127.0.0.1:5000
-
 
 ## 👨‍💻 Author
 
